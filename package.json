@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@unocss/preset-uno": "^66.6.8",
+    "unocss": "^66.6.8"
+  }
+}

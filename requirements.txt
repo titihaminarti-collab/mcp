@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+python-multipart==0.0.6
+langgraph
+langchain
+langchain-openai
+langchain-community
+colorlog
+python-dotenv
+passlib[bcrypt]
+sqlalchemy
+pymysql
+# Add other dependencies as needed based on your project
+# For example, if using OpenAI, add openai
+# If using other libraries, add them here

@@ -1,0 +1,47 @@
+2026-05-08 10:36:18,427 - __main__ - INFO - Login attempt for username: newuser123
+2026-05-08 10:36:18,438 - __main__ - INFO - User found: id=10, username=newuser123, password_hash=$pbkdf2-sha256$29000$SyklZOzdm5MSQsi5V6qV0g$LZFePMouL2ywpT/2h/fO0kLjgJ/HbxuTK0LM1EQslus
+2026-05-08 10:36:18,447 - __main__ - INFO - Login successful for user: newuser123
+2026-05-08 11:07:23,801 - __main__ - INFO - Registration attempt for username: testuser789
+2026-05-08 11:07:23,821 - __main__ - INFO - Password hashed successfully for user testuser789: $pbkdf2-sha256$29000$BeCc09p7j7G2Nibk/F9LiQ$9yMiCSrURM51wNTOABbDZqua6juJ7fIQoeF1Q1lxaq0
+2026-05-08 11:07:23,838 - __main__ - INFO - User created successfully: id=12, username=testuser789, email=test789@example.com
+2026-05-08 11:08:11,517 - __main__ - INFO - Login attempt for username: testuser789
+2026-05-08 11:08:11,518 - __main__ - INFO - User found: id=12, username=testuser789, password_hash=$pbkdf2-sha256$29000$BeCc09p7j7G2Nibk/F9LiQ$9yMiCSrURM51wNTOABbDZqua6juJ7fIQoeF1Q1lxaq0
+2026-05-08 11:08:11,527 - __main__ - INFO - Login successful for user: testuser789
+2026-05-08 11:12:58,789 - __main__ - INFO - Registration attempt for username: 123456
+2026-05-08 11:12:58,804 - __main__ - INFO - Password hashed successfully for user 123456: $pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 11:12:58,813 - __main__ - INFO - User created successfully: id=13, username=123456, email=123456@qq.com
+2026-05-08 11:13:10,692 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 11:13:10,694 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 11:13:10,707 - __main__ - INFO - Login successful for user: 123456
+2026-05-08 11:17:03,439 - __main__ - INFO - Registration attempt for username: testuser999
+2026-05-08 11:17:03,450 - __main__ - INFO - Password hashed successfully for user testuser999: $pbkdf2-sha256$29000$KUWIMWaMce7d.z9H6H0vZQ$WFbtIZamTpBqBmxtqCGMTjv4us9any666Yaolevc1yQ
+2026-05-08 11:17:03,460 - __main__ - INFO - User created successfully: id=14, username=testuser999, email=test999@example.com
+2026-05-08 11:18:14,645 - __main__ - INFO - Login attempt for username: testuser999
+2026-05-08 11:18:14,646 - __main__ - INFO - User found: id=14, username=testuser999, password_hash=$pbkdf2-sha256$29000$KUWIMWaMce7d.z9H6H0vZQ$WFbtIZamTpBqBmxtqCGMTjv4us9any666Yaolevc1yQ
+2026-05-08 11:18:14,655 - __main__ - INFO - Login successful for user: testuser999
+2026-05-08 11:31:28,007 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 11:31:28,013 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 11:31:28,027 - __main__ - INFO - Login successful for user: 123456
+2026-05-08 16:13:50,228 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 16:13:50,253 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 16:13:50,268 - __main__ - INFO - Login successful for user: 123456
+2026-05-08 16:17:24,696 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 16:17:24,711 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 16:17:24,720 - __main__ - INFO - Login successful for user: 123456
+2026-05-08 17:09:32,294 - __main__ - INFO - Login attempt for username: 1235
+2026-05-08 17:09:32,312 - __main__ - INFO - User found: id=4, username=1235, password_hash=$pbkdf2-sha256$29000$FwIAYMz5vxfiPIdwjjEGAA$8DHtAPCBn.00XGbm51yA2Zj2wB7GRgPQl8XM08OSUWU
+2026-05-08 17:09:32,320 - __main__ - INFO - Login successful for user: 1235
+2026-05-08 17:30:23,405 - mcp_project.utils.llm_utils - INFO - [模型初始化完成]==>模型为qwen-turbo
+2026-05-08 17:30:24,103 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2026-05-08 17:33:24,951 - __main__ - INFO - Login attempt for username: 1235
+2026-05-08 17:33:24,971 - __main__ - INFO - User found: id=4, username=1235, password_hash=$pbkdf2-sha256$29000$FwIAYMz5vxfiPIdwjjEGAA$8DHtAPCBn.00XGbm51yA2Zj2wB7GRgPQl8XM08OSUWU
+2026-05-08 17:33:24,979 - __main__ - INFO - Login successful for user: 1235
+2026-05-08 17:33:52,410 - __main__ - INFO - Login attempt for username: 1235
+2026-05-08 17:33:52,413 - __main__ - INFO - User found: id=4, username=1235, password_hash=$pbkdf2-sha256$29000$FwIAYMz5vxfiPIdwjjEGAA$8DHtAPCBn.00XGbm51yA2Zj2wB7GRgPQl8XM08OSUWU
+2026-05-08 17:33:52,420 - __main__ - INFO - Login successful for user: 1235
+2026-05-08 17:46:18,902 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 17:46:18,920 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 17:46:18,928 - __main__ - INFO - Login successful for user: 123456
+2026-05-08 19:59:07,036 - __main__ - INFO - Login attempt for username: 123456
+2026-05-08 19:59:07,100 - __main__ - INFO - User found: id=13, username=123456, password_hash=$pbkdf2-sha256$29000$w3ivVYqxNub8/1/L2dvbGw$WhBlJOi/HwDrZYoQfbFckGRqAY49gp8D3YNSEWhliBg
+2026-05-08 19:59:07,144 - __main__ - INFO - Login successful for user: 123456
